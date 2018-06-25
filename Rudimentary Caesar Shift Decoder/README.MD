@@ -1,0 +1,1 @@
+This is a Rudimentary Caesar Shift Decoder, where it prompts for the encoded caesar shift message, and then shifts by 1. It thens asks the user to hit '1' if the message still doesnt make sense, which it will then cycle through another shift. It will continue to shift until the user hits '0' when the message isnt gibberish anymore.
